@@ -20,12 +20,12 @@ Kampüs Görev Takip Sistemi, yoğun akademik takvim içinde boğulan öğrencil
 
 | Ana Ekran (Boş) | Görev Listesi | Görev Eklendi Efekti |
 |:---:|:---:|:---:|
-| ![Ana Ekran](ProjeAppExpo/screenshots/1_ana_ekran.png) | ![Görev Listesi](./screenshots/2_gorev_listesi.png) | ![Parıltı](./screenshots/3_parilti_animasyon.png) |
+| ![Ana Ekran](ProjeAppExpo/screenshots/1_ana_ekran.png) | ![Görev Listesi](ProjeAppExpo/screenshots/2_gorev_listesi.png) | ![Parıltı](ProjeAppExpo/screenshots/3_parilti_animasyon.png) |
 | Logo + form + istatistikler | Eklenen görev kartı | ✨ Animasyon overlay'i |
 
 | Takvim Sekmesi | Profil Sekmesi |
 |:---:|:---:|
-| ![Takvim](./screenshots/4_takvim.png) | ![Profil](./screenshots/5_profil.png) |
+| ![Takvim](ProjeAppExpo/screenshots/4_takvim.png) | ![Profil](ProjeAppExpo/screenshots/5_profil.png) |
 | Tarihi olan aktif görevler | Tamamlanma oranı & özet |
 
 ---
